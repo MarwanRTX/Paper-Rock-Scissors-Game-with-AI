@@ -1,4 +1,4 @@
-Simple Rock Paper Schissors Game
+Simple Rock Paper Scissors Game
 
 To sart Run with
 
